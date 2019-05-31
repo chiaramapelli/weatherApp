@@ -1,0 +1,220 @@
+{
+    "type": "FeatureCollection",
+    "query": ["london", "england"],
+    "features": [{
+        "id": "place.2703042976503000",
+        "type": "Feature",
+        "place_type": ["place"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q84"
+        },
+        "text": "London",
+        "place_name": "London, Greater London, England, United Kingdom",
+        "bbox": [-0.35167, 51.384598, 0.152641, 51.669993],
+        "center": [-0.1275, 51.50722],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.1275, 51.50722]
+        },
+        "context": [{
+            "id": "district.9655698107976620",
+            "wikidata": "Q23306",
+            "text": "Greater London"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "poi.970662609709",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q607700",
+            "address": "18 Fish Street Hill",
+            "landmark": true,
+            "category": "historic site, historic"
+        },
+        "text": "King William Street",
+        "place_name": "King William Street, 18 Fish Street Hill, London, England EC3R 8AH, United Kingdom",
+        "matching_text": "London",
+        "matching_place_name": "London, 18 Fish Street Hill, London, England EC3R 8AH, United Kingdom",
+        "center": [-0.08630650000000001, 51.510059125],
+        "geometry": {
+            "coordinates": [-0.08630650000000001, 51.510059125],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.14173694449125650",
+            "text": "EC3R 8AH"
+        }, {
+            "id": "locality.17318254243108080",
+            "wikidata": null,
+            "text": "Lime Street"
+        }, {
+            "id": "place.2703042976503000",
+            "wikidata": "Q84",
+            "text": "London"
+        }, {
+            "id": "district.9655698107976620",
+            "wikidata": "Q23306",
+            "text": "Greater London"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "poi.2499671001857",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "landmark": true,
+            "wikidata": "Q7981418",
+            "category": "hospital, clinic, medical center",
+            "maki": "hospital"
+        },
+        "text": "Wellington Hospital",
+        "place_name": "Wellington Hospital, London, England NW8 9SL, United Kingdom",
+        "matching_text": "London",
+        "matching_place_name": "London, London, England NW8 9SL, United Kingdom",
+        "center": [-0.171943, 51.5320745],
+        "geometry": {
+            "coordinates": [-0.171943, 51.5320745],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.11073420477673870",
+            "text": "NW8 9SL"
+        }, {
+            "id": "locality.17415801354825170",
+            "wikidata": null,
+            "text": "Regent's Park"
+        }, {
+            "id": "place.2703042976503000",
+            "wikidata": "Q84",
+            "text": "London"
+        }, {
+            "id": "district.9655698107976620",
+            "wikidata": "Q23306",
+            "text": "Greater London"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "poi.2559800517112",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q1112579",
+            "address": "Fleet St",
+            "landmark": true,
+            "category": "church, christian, place of worship"
+        },
+        "text": "St Bride's Church",
+        "place_name": "St Bride's Church, Fleet St, London, England EC4Y 8AU, United Kingdom",
+        "matching_text": "London",
+        "matching_place_name": "London, Fleet St, London, England EC4Y 8AU, United Kingdom",
+        "center": [-0.1056565, 51.513904499999995],
+        "geometry": {
+            "coordinates": [-0.1056565, 51.513904499999995],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.2107778773496600",
+            "text": "EC4Y 8AU"
+        }, {
+            "id": "locality.9744277084103020",
+            "wikidata": null,
+            "text": "Farringdon Within"
+        }, {
+            "id": "place.2703042976503000",
+            "wikidata": "Q84",
+            "text": "London"
+        }, {
+            "id": "district.9655698107976620",
+            "wikidata": "Q23306",
+            "text": "Greater London"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "poi.3075196668468",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "landmark": true,
+            "address": "58 Shepherd's Bush Green",
+            "category": "bar, pub, alcohol, liquor, beer"
+        },
+        "text": "Dorsett Shepherds Bush",
+        "place_name": "Dorsett Shepherds Bush, 58 Shepherd's Bush Green, London, England W12 8TT, United Kingdom",
+        "matching_text": "London",
+        "matching_place_name": "London, 58 Shepherd's Bush Green, London, England W12 8TT, United Kingdom",
+        "center": [-0.22436, 51.504008],
+        "geometry": {
+            "coordinates": [-0.22436, 51.504008],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.9848913868052610",
+            "text": "W12 8TT"
+        }, {
+            "id": "locality.8869571734832310",
+            "wikidata": "Q1026182",
+            "text": "Shepherd's Bush Green"
+        }, {
+            "id": "place.2703042976503000",
+            "wikidata": "Q84",
+            "text": "London"
+        }, {
+            "id": "district.9655698107976620",
+            "wikidata": "Q23306",
+            "text": "Greater London"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }],
+    "attribution": "NOTICE: © 2019 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
